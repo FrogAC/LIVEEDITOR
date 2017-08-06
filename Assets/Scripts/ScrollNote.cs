@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
 public class ScrollNote : MonoBehaviour,IPointerClickHandler,IPointerDownHandler ,IPointerUpHandler {
 	#region Pointer
 
+	public Text text;
 	public NoteLeft left;
 	public NoteRight right;
 	/// <summary>
@@ -17,9 +19,11 @@ public class ScrollNote : MonoBehaviour,IPointerClickHandler,IPointerDownHandler
 		if (mode == 0) {
 			mode = 1;
 			Debug.Log("HighLight!");
+			text.gameObject.SetActive(true);
 		} else {
 			mode = 0;
 			Debug.Log("Normal");
+			text.gameObject.SetActive(false);
 		}
 	}
 
