@@ -4,9 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class ScrollNote : MonoBehaviour,IPointerClickHandler,IPointerDownHandler ,IPointerUpHandler {
+public class ScrollNote : MonoBehaviour,IPointerUpHandler,IDragHandler {
 	#region Pointer
 
+	bool isDraging = false;
+	public Scroll scroll;
 	public Text text;
 	public NoteLeft left;
 	public NoteRight right;
@@ -15,25 +17,31 @@ public class ScrollNote : MonoBehaviour,IPointerClickHandler,IPointerDownHandler
 	/// </summary>
 	public int mode = 0;
 
-	public void OnPointerClick (PointerEventData eventData) {
-		if (mode == 0) {
-			mode = 1;
-			Debug.Log("HighLight!");
-			text.gameObject.SetActive(true);
+	public void OnPointerUp (PointerEventData eventData) {
+		if (isDraging) {
+			isDraging = false;
 		} else {
-			mode = 0;
-			Debug.Log("Normal");
-			text.gameObject.SetActive(false);
+			if (mode == 0) {
+				mode = 1;
+				Debug.Log("HighLight!");
+				text.gameObject.SetActive(true);
+			} else {
+				mode = 0;
+				Debug.Log("Normal");
+				text.gameObject.SetActive(false);
+			}
 		}
 	}
 
-	public void OnPointerDown (PointerEventData eventData) {
-		
+	public void OnDrag (PointerEventData eventData) {
+		if (mode == 0)
+			return;
+		if (!isDraging)
+			isDraging = true;
+		X = X + eventData.delta.x;
+		scroll.RefreshNoteFromMid(this, eventData.delta.x);
 	}
 
-	public void OnPointerUp (PointerEventData eventData) {
-		
-	}
 
 	#endregion
 
@@ -69,5 +77,9 @@ public class ScrollNote : MonoBehaviour,IPointerClickHandler,IPointerDownHandler
 	public Vector2 Size {
 		get{ return rect.sizeDelta; }
 		set{ rect.sizeDelta = value; }
+	}
+
+	void Awake () {
+		scroll = gameObject.GetComponentInParent<Scroll>();
 	}
 }

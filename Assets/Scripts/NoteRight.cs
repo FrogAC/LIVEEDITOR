@@ -22,7 +22,7 @@ public class NoteRight : MonoBehaviour {
 	void OnDrag (BaseEventData data) {
 		PointerEventData ped = (PointerEventData)data;
 		if ((note.mode == 1) &&
-		    ((note.Size.x > minSize) || (ped.delta.x > 0)) &&
+		    ((note.Size.x > scroll.itemSize.x) || (ped.delta.x > 0)) &&
 		    ((note.X < Screen.width) || (ped.delta.x < 0))) {
 			note.Size += new Vector2(ped.delta.x, 0);
 

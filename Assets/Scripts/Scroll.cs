@@ -1,6 +1,8 @@
 ﻿using UnityEngine.UI;
 using UnityEngine;
 using System;
+using System.IO;
+using System.Linq;
 using System.Collections.Generic;
 using UnityEngine.EventSystems;
 
@@ -10,11 +12,14 @@ public class NoteType {
 	public double endtime;
 	///0:single; 1:long;
 	public int type;
+	//output only
+	public bool parallel;
 	public int lane;
 	public bool isActive = false;
 }
 
-[RequireComponent(typeof(EventTrigger))]
+
+
 public class Scroll : MonoBehaviour {
 	public GameObject ItemPrototype, NotePrototype;
 
@@ -35,16 +40,19 @@ public class Scroll : MonoBehaviour {
 	private ScrollItem[,] instances;
 	private ScrollNote[] noteInstances;
 	public List<ScrollNote> activeNotes;
-	public List<NoteType> notes;
+	public List<NoteType> notes, sortNotes;
 	private EventTrigger eventTrigger;
-	public bool inEditMode, isHolding = false;
+	public bool isEditMode, isHolding = false;
 
+	public StreamWriter writer;
+	public string OutputFile, AudioFile;
 
 	NoteType noteNew;
 
 
 	public void Awake () { 
-		TimeCoefficient = 60000 / BPM;
+		isEditMode = true;
+		TimeCoefficient = 30000 / BPM;
 		itemSize = new Vector2(100, Height / 9);
 		RebuildInstances();
 		RebuildContent();
@@ -65,45 +73,41 @@ public class Scroll : MonoBehaviour {
 		AspectRatio = (float)Screen.width / (float)Screen.height;
 		Width = Height * AspectRatio;
 		eventTrigger = GetComponent<EventTrigger>();
-		eventTrigger.AddEventTrigger(OnDrag, EventTriggerType.Drag);
-		eventTrigger.AddEventTrigger(OnPointerDown, EventTriggerType.PointerDown);
-		eventTrigger.AddEventTrigger(OnPointerUp, EventTriggerType.PointerUp);
+		//eventTrigger.AddEventTrigger(OnPointerClick, EventTriggerType.PointerClick);
 	}
 
 	#region editor
 
-	void OnDrag (BaseEventData data) {
-		if ((!inEditMode) || (!isHolding))
+
+	void OnPointerClick (BaseEventData data) {
+		//implement in ScrollItem
+
+		if (!isEditMode)
 			return;
 		PointerEventData ped = (PointerEventData)data;
-
-	}
-
-	void OnPointerDown (BaseEventData data) {
-		if (!inEditMode)
-			return;
-		isHolding = true;
-		PointerEventData ped = (PointerEventData)data;
-		int newIndex;
 		float starttime = 0;
 		int lane = (int)(((ped.position.y / Screen.height) * Height - 20) / itemSize.y);
 		float startPos = ped.position.x - PanelOffset;
 		foreach (ScrollItem item in instances) {
-			if ((item.X + itemSize.x > startPos) && (item.X <= startPos)) {
-				newIndex = item.Index;
+			if ((item.X >= startPos) && (item.X < startPos + itemSize.x)) {
 				starttime = ((startPos - item.X) / itemSize.y * TimeCoefficient) + item.Index * TimeCoefficient;
+
+				Debug.Log(item.Index);
 				break;
 			}
 		}
 		noteNew = new NoteType();
 		noteNew.starttime = starttime;
-
+		noteNew.endtime = starttime + TimeCoefficient;
 		noteNew.lane = lane;
+		notes.Add(noteNew);
+
+		OnScrollUpdate();
 	}
 
 
 	void OnPointerUp (BaseEventData data) {
-		if (!inEditMode)
+		if (!isEditMode)
 			return;
 		isHolding = false;
 		PointerEventData ped = (PointerEventData)data;
@@ -334,7 +338,7 @@ public class Scroll : MonoBehaviour {
 				int startIndex = (int)(note.starttime / TimeCoefficient);
 				double noteSizeX;
 				if (note.type == 0)
-					noteSizeX = ShortNoteX;
+					noteSizeX = itemSize.x;
 				else
 					noteSizeX = (note.endtime - note.starttime) / TimeCoefficient * itemSize.x;
 				int endIndex = startIndex + (int)(noteSizeX / itemSize.y);
@@ -407,6 +411,7 @@ public class Scroll : MonoBehaviour {
 		notes.Add(newNote);
 	}
 
+
 	public virtual void DeleteNote (int count) {
 		notes.Remove(notes[count]);
 		ScrollNote delNote = null;
@@ -447,6 +452,103 @@ public class Scroll : MonoBehaviour {
 		String seconds = Mathf.Floor(time / 1000 % 60).ToString("00");
 		String microSeconds = Mathf.Floor(time % 1000).ToString("000");
 		noteIns.text.text = String.Format("{0,0}:{1,0}:{2,0}", minutes, seconds, microSeconds);
+	}
+
+	public virtual void RefreshNoteFromMid (ScrollNote noteIns, float deltaX) {
+		NoteType note = notes[noteIns.count];
+		note.starttime = note.starttime + (deltaX / itemSize.x) * TimeCoefficient;
+		note.endtime = note.endtime + (deltaX / itemSize.x) * TimeCoefficient;
+		//EndIndex may have no use at all
+
+		float time = (float)note.starttime;
+		String minutes = Mathf.Floor(time / 1000 / 60).ToString("0");
+		String seconds = Mathf.Floor(time / 1000 % 60).ToString("00");
+		String microSeconds = Mathf.Floor(time % 1000).ToString("000");
+		noteIns.text.text = String.Format("{0,0}:{1,0}:{2,0}", minutes, seconds, microSeconds);
+	}
+
+	#endregion
+
+	#region fileControl
+
+	public virtual void SaveToJson () {
+		//sort first
+		sortNotes = notes;
+		NoteType temp;
+		for (int i = 0; i < sortNotes.Count - 1; i++)
+			for (int j = i + 1; j < sortNotes.Count; j++) {
+				if (sortNotes[i].starttime > sortNotes[j].starttime) {
+					temp = sortNotes[i];
+					sortNotes[i] = sortNotes[j];
+					sortNotes[j] = temp;
+				}
+			}
+			
+		//parallel
+
+		if ((sortNotes[0].starttime.Equals(sortNotes[1].starttime)))
+			sortNotes[1].parallel = true;
+		else
+			sortNotes[1].parallel = false;
+
+		if ((sortNotes[sortNotes.Count - 1].starttime.Equals(sortNotes[sortNotes.Count - 2].starttime)))
+			sortNotes[sortNotes.Count - 1].parallel = true;
+		else
+			sortNotes[sortNotes.Count - 1].parallel = false;
+		
+		for (int i = 1; i < sortNotes.Count - 1; i++) {
+			if ((sortNotes[i].starttime.Equals(sortNotes[i - 1].starttime)) ||
+			    (sortNotes[i].starttime.Equals(sortNotes[i + 1].starttime)))
+				sortNotes[i].parallel = true;
+			else
+				sortNotes[i].parallel = false;
+
+		}
+		/*
+		 * Sample
+		 * {
+			"starttime": 1461.5889570552145,
+			"endtime": 1461.5889570552145,
+			"longnote": false,
+			"parallel": true,
+			"lane": 0,
+			"hold": false
+		},*/
+
+		using (writer = new StreamWriter(OutputFile)) {
+			writer.WriteLine("{");
+			writer.WriteLine("\"speed\":" + 160 + ",");
+			writer.WriteLine("\"audiofile\":" + AudioFile + ",");
+			writer.WriteLine("\"lane\":[");
+			for (int i = 0; i < 9; i++) {
+				writer.WriteLine("[");
+				bool lanestart = true;
+				foreach (NoteType note in sortNotes) {
+					if (note.lane == i) {
+						if (lanestart)
+							lanestart = false;
+						else
+							writer.WriteLine("},");
+						writer.WriteLine("{");
+						writer.WriteLine("\"starttime\":" + note.starttime + ",");
+						writer.WriteLine("\"endtime\":" + note.endtime + ",");
+						writer.WriteLine("\"longnote\":" + (!(note.endtime == note.starttime)).ToString().ToLower() + ",");
+						writer.WriteLine("\"parallel\":" + note.parallel.ToString().ToLower() + ",");
+						writer.WriteLine("\"hold\": false");
+					}
+				}
+				if (!lanestart)
+					writer.WriteLine("}");
+				if (i < 8)
+					writer.WriteLine("],");
+
+			}
+			writer.WriteLine("]]}");
+		}
+	}
+
+	public virtual void ReadFromJson () {
+		
 	}
 
 	#endregion
