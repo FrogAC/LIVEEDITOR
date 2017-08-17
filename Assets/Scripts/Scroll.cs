@@ -7,6 +7,13 @@ using System.Collections.Generic;
 using UnityEngine.EventSystems;
 
 [System.Serializable]
+public struct hitmapType {
+	public int speed;
+	public string audiofile;
+	public List<NoteType> lane;
+}
+
+[System.Serializable]
 public class NoteType {
 	public double starttime;
 	public double endtime;
@@ -27,7 +34,7 @@ public class Scroll : MonoBehaviour {
 
 	public float Height, AspectRatio, Width;
 	public float sizeOffset = 1, timeOffset = 1, TimeCoefficient;
-	public int BPM, InstanceCount, ItemCount, NoteInstanceCount, NotesCountMax;
+	public int BPM, InstanceCount, ItemCount, NoteInstanceCount, NotesCountMax, ItemCountMin;
 
 
 	public ScrollRect scroll;
@@ -51,8 +58,9 @@ public class Scroll : MonoBehaviour {
 
 
 	public void Awake () { 
+		ItemCount = ItemCountMin;
 		isEditMode = true;
-		TimeCoefficient = 30000 / BPM;
+		TimeCoefficient = 15000 / BPM;
 		itemSize = new Vector2(100, Height / 9);
 		RebuildInstances();
 		RebuildContent();
@@ -164,6 +172,13 @@ public class Scroll : MonoBehaviour {
 
 	public virtual void ChangeItemCount (int change) {
 		ItemCount += change;
+		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
+		BlockPanel.sizeDelta = Content.sizeDelta;
+		NotePanel.sizeDelta = Content.sizeDelta;
+	}
+
+	public virtual void SetItemCount (int count) {
+		ItemCount = count;
 		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
 		BlockPanel.sizeDelta = Content.sizeDelta;
 		NotePanel.sizeDelta = Content.sizeDelta;
@@ -398,7 +413,7 @@ public class Scroll : MonoBehaviour {
 	/// type 0 = Single
 	/// type 1 = Long
 	/// </summary>
-	public virtual void AddNote (float start, float end, int laneN) {
+	public virtual void AddNote (double start, double end, int laneN) {
 		var newNote = new NoteType();
 		newNote.starttime = start;
 		newNote.endtime = end;
@@ -547,8 +562,24 @@ public class Scroll : MonoBehaviour {
 		}
 	}
 
-	public virtual void ReadFromJson () {
-		
+	public virtual void ReadFromJson (String hitmapName) {
+		//clear screen,notes,activeNotes
+		foreach (ScrollNote note in activeNotes) {
+			note.SetActive = false;
+		}
+		activeNotes.RemoveRange(0, activeNotes.Count);
+		notes.RemoveRange(0, notes.Count);
+		double maxTime = 0;
+		TextAsset hitmapFile = Resources.Load(hitmapName) as TextAsset;
+		hitmapType hitmapData = JsonUtility.FromJson<hitmapType>(hitmapFile.text);
+		foreach (NoteType note in hitmapData.lane) {
+			AddNote(note.starttime, note.endtime, note.lane);
+			if (note.endtime > maxTime)
+				maxTime = note.endtime;
+		}
+		SetItemCount((int)(maxTime / TimeCoefficient) + 10);
+
+		OnScrollUpdate();
 	}
 
 	#endregion
