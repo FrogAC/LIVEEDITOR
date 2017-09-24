@@ -42,13 +42,12 @@ public class ScrollItem : MonoBehaviour,IPointerClickHandler {
 
 	public void OnPointerClick (PointerEventData ped) {
 
-		Debug.Log(scroll.isEditMode);
 		if (scroll.isEditMode) {
-			Debug.Log(2);
 			newNote = new NoteType();
 			newNote.starttime = (Index) * scroll.TimeCoefficient;
 			newNote.endtime = (Index + 1) * scroll.TimeCoefficient;
-			newNote.lane = (int)(Y / Size.y);
+			newNote.lane = (int)((Y / Size.y) + 0.1);
+			Debug.Log(Y / Size.y);
 			scroll.notes.Add(newNote);
 			scroll.OnScrollUpdate();
 		}

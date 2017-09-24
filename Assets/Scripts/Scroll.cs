@@ -94,16 +94,15 @@ public class Scroll : MonoBehaviour {
 			return;
 		PointerEventData ped = (PointerEventData)data;
 		float starttime = 0;
-		int lane = (int)(((ped.position.y / Screen.height) * Height - 20) / itemSize.y);
+		int lane = (int)(((ped.position.y / Screen.height) * Height - 70) / itemSize.y);
 		float startPos = ped.position.x - PanelOffset;
 		foreach (ScrollItem item in instances) {
 			if ((item.X >= startPos) && (item.X < startPos + itemSize.x)) {
 				starttime = ((startPos - item.X) / itemSize.y * TimeCoefficient) + item.Index * TimeCoefficient;
 
-				Debug.Log(item.Index);
 				break;
 			}
-		}
+		}　
 		noteNew = new NoteType();
 		noteNew.starttime = starttime;
 		noteNew.endtime = starttime + TimeCoefficient;
@@ -153,9 +152,9 @@ public class Scroll : MonoBehaviour {
 		Content.anchoredPosition = new Vector2(0, 0);
 		BlockPanel.anchoredPosition = new Vector2(0, 0);
 		NotePanel.anchoredPosition = new Vector2(0, 0);
-		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
-		BlockPanel.sizeDelta = Content.sizeDelta;
-		NotePanel.sizeDelta = Content.sizeDelta;
+		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, 580);
+		BlockPanel.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
+		NotePanel.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
 		for (int i = 0; i < InstanceCount; i++)
 			for (int j = 0; j < 9; j++) {
 				instances[j, i].gameObject.SetActive(true);
@@ -172,14 +171,14 @@ public class Scroll : MonoBehaviour {
 
 	public virtual void ChangeItemCount (int change) {
 		ItemCount += change;
-		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
+		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, 580);
 		BlockPanel.sizeDelta = Content.sizeDelta;
 		NotePanel.sizeDelta = Content.sizeDelta;
 	}
 
 	public virtual void SetItemCount (int count) {
 		ItemCount = count;
-		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, Height);
+		Content.sizeDelta = new Vector2(itemSize.x * ItemCount, 580);
 		BlockPanel.sizeDelta = Content.sizeDelta;
 		NotePanel.sizeDelta = Content.sizeDelta;
 	}
@@ -442,6 +441,21 @@ public class Scroll : MonoBehaviour {
 		delNote.SetActive = false;
 		activeNotes.Remove(delNote);
 
+	}
+
+	public virtual void DeleteHighLight () {
+		int notesCount = activeNotes.Count;
+		int i = 0;
+		while (i < notesCount) {
+			if (activeNotes[i].mode == 1) {
+				notes.Remove(notes[activeNotes[i].count]);
+				activeNotes[i].SetActive = false;
+				activeNotes.RemoveAt(i);
+				notesCount--;
+			} else {
+				i++;
+			}
+		}
 	}
 
 	public virtual void RefreshNoteFromLeft (ScrollNote noteIns) {

@@ -1,0 +1,4415 @@
+{
+    "speed": 160,
+    "audiofile": "5yrslHRdVnNh",
+    "lane": [
+            {
+                "starttime": 1461.5889570552145,
+                "endtime": 1461.5889570552145,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 2841.957055214724,
+                "endtime": 2841.957055214724,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 5694.7177914110425,
+                "endtime": 5694.7177914110425,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 5878.766871165644,
+                "endtime": 5878.766871165644,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 8087.35582822086,
+                "endtime": 8087.35582822086,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 8271.40490797546,
+                "endtime": 8271.40490797546,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 10111.895705521474,
+                "endtime": 10111.895705521474,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 12504.53374233129,
+                "endtime": 13608.828220858897,
+                "longnote": true,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 14160.975460122701,
+                "endtime": 14160.975460122701,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 15817.417177914114,
+                "endtime": 15817.417177914114,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 16553.613496932518,
+                "endtime": 16553.613496932518,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 19314.349693251537,
+                "endtime": 19314.349693251537,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 20050.54601226994,
+                "endtime": 20050.54601226994,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 20234.59509202454,
+                "endtime": 20234.59509202454,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 22443.18404907976,
+                "endtime": 22443.18404907976,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 22627.23312883436,
+                "endtime": 22627.23312883436,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 24283.67484662577,
+                "endtime": 24283.67484662577,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 24467.72392638037,
+                "endtime": 24467.72392638037,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 26124.165644171782,
+                "endtime": 26124.165644171782,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 28332.754601227,
+                "endtime": 28332.754601227,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 29068.950920245403,
+                "endtime": 29068.950920245403,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 30541.343558282213,
+                "endtime": 30541.343558282213,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 31277.53987730062,
+                "endtime": 31277.53987730062,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 32013.736196319023,
+                "endtime": 32013.736196319023,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 35326.61963190184,
+                "endtime": 35326.61963190184,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 35510.66871165644,
+                "endtime": 35510.66871165644,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 36983.06134969325,
+                "endtime": 36983.06134969325,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 39743.79754601226,
+                "endtime": 39743.79754601226,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 41032.14110429447,
+                "endtime": 41032.14110429447,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 42688.582822085875,
+                "endtime": 42688.582822085875,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 46001.46625766869,
+                "endtime": 46001.46625766869,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 48026.0061349693,
+                "endtime": 48026.0061349693,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 48210.0552147239,
+                "endtime": 48210.0552147239,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 49130.300613496904,
+                "endtime": 50050.54601226991,
+                "longnote": true,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 54467.72392638033,
+                "endtime": 54835.82208588953,
+                "longnote": true,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 56584.28834355824,
+                "endtime": 56584.28834355824,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 57412.50920245394,
+                "endtime": 57412.50920245394,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 57780.60736196314,
+                "endtime": 57780.60736196314,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 58516.803680981546,
+                "endtime": 58516.803680981546,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 58884.90184049075,
+                "endtime": 58884.90184049075,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 59068.95092024535,
+                "endtime": 59068.95092024535,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 59989.19631901835,
+                "endtime": 59989.19631901835,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 61093.49079754596,
+                "endtime": 61093.49079754596,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 63210.05521472387,
+                "endtime": 63210.05521472387,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 64590.42331288337,
+                "endtime": 64590.42331288337,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 64774.472392637974,
+                "endtime": 64774.472392637974,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 66799.0122699386,
+                "endtime": 66799.0122699386,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 68455.45398773,
+                "endtime": 68455.45398773,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 70111.89570552141,
+                "endtime": 70111.89570552141,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 71584.28834355822,
+                "endtime": 71584.28834355822,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 74897.17177914103,
+                "endtime": 74897.17177914103,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 75081.22085889563,
+                "endtime": 75081.22085889563,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 76461.58895705514,
+                "endtime": 76461.58895705514,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 77289.80981595084,
+                "endtime": 77289.80981595084,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 79866.49693251525,
+                "endtime": 79866.49693251525,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 80970.79141104285,
+                "endtime": 80970.79141104285,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 81154.84049079746,
+                "endtime": 81154.84049079746,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 84651.77300613487,
+                "endtime": 84651.77300613487,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 86124.16564417168,
+                "endtime": 86308.21472392628,
+                "longnote": true,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 88240.73006134959,
+                "endtime": 88240.73006134959,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 89805.1472392637,
+                "endtime": 89805.1472392637,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 89989.1963190183,
+                "endtime": 89989.1963190183,
+                "longnote": false,
+                "parallel": false,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 92013.7361963189,
+                "endtime": 92565.88343558271,
+                "longnote": true,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 94038.27607361952,
+                "endtime": 94038.27607361952,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 94590.42331288331,
+                "endtime": 94958.52147239252,
+                "longnote": true,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },
+            {
+                "starttime": 95694.71779141092,
+                "endtime": 95694.71779141092,
+                "longnote": false,
+                "parallel": true,
+                "lane": 0,
+                "hold": false
+            },      
+            {
+                "starttime": 3302.079754601227,
+                "endtime": 4038.2760736196315,
+                "longnote": true,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 5326.61963190184,
+                "endtime": 5326.61963190184,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 6246.865030674846,
+                "endtime": 6246.865030674846,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 6983.061349693252,
+                "endtime": 6983.061349693252,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 9191.650306748466,
+                "endtime": 9191.650306748466,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 10664.042944785277,
+                "endtime": 10664.042944785277,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 11584.288343558284,
+                "endtime": 11584.288343558284,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 14345.024539877302,
+                "endtime": 14345.024539877302,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 15449.31901840491,
+                "endtime": 15449.31901840491,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 20786.742331288347,
+                "endtime": 20786.742331288347,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 20970.79141104295,
+                "endtime": 20970.79141104295,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 26492.263803680984,
+                "endtime": 26492.263803680984,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 28148.7055214724,
+                "endtime": 28148.7055214724,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 28884.901840490802,
+                "endtime": 28884.901840490802,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 33486.12883435583,
+                "endtime": 33486.12883435583,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 36062.815950920245,
+                "endtime": 36062.815950920245,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 36614.96319018405,
+                "endtime": 36614.96319018405,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 36799.01226993865,
+                "endtime": 36799.01226993865,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 38271.404907975455,
+                "endtime": 38271.404907975455,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 41400.23926380367,
+                "endtime": 41952.38650306747,
+                "longnote": true,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 43976.92638036808,
+                "endtime": 43976.92638036808,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 44897.171779141085,
+                "endtime": 44897.171779141085,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 46185.51533742329,
+                "endtime": 46921.711656441694,
+                "longnote": true,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 48394.1042944785,
+                "endtime": 48394.1042944785,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 51522.938650306714,
+                "endtime": 51522.938650306714,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 53731.527607361924,
+                "endtime": 53731.527607361924,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 54099.625766871126,
+                "endtime": 54099.625766871126,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 54927.84662576683,
+                "endtime": 54927.84662576683,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 55111.895705521434,
+                "endtime": 55111.895705521434,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 57228.46012269934,
+                "endtime": 57228.46012269934,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 58332.754601226945,
+                "endtime": 58332.754601226945,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 59805.14723926375,
+                "endtime": 59805.14723926375,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 61277.53987730056,
+                "endtime": 61277.53987730056,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 62197.78527607356,
+                "endtime": 62565.883435582764,
+                "longnote": true,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 64406.37423312877,
+                "endtime": 64406.37423312877,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 64958.521472392575,
+                "endtime": 64958.521472392575,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 66983.06134969319,
+                "endtime": 67351.15950920239,
+                "longnote": true,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 68823.5521472392,
+                "endtime": 68823.5521472392,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 70479.99386503061,
+                "endtime": 70479.99386503061,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 70664.04294478521,
+                "endtime": 70664.04294478521,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 71768.33742331281,
+                "endtime": 71768.33742331281,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 74713.12269938643,
+                "endtime": 74713.12269938643,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 75265.26993865024,
+                "endtime": 75265.26993865024,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 77473.85889570545,
+                "endtime": 77473.85889570545,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 78394.10429447844,
+                "endtime": 78578.15337423305,
+                "longnote": true,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 79130.30061349685,
+                "endtime": 79130.30061349685,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 79682.44785276066,
+                "endtime": 79682.44785276066,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 80694.71779141095,
+                "endtime": 80694.71779141095,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 84283.67484662567,
+                "endtime": 84283.67484662567,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 85019.87116564407,
+                "endtime": 85019.87116564407,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 85572.01840490788,
+                "endtime": 85572.01840490788,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 87228.46012269928,
+                "endtime": 87228.46012269928,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 87964.65644171769,
+                "endtime": 87964.65644171769,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 89437.04907975449,
+                "endtime": 89437.04907975449,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 91093.4907975459,
+                "endtime": 91093.4907975459,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 92749.9325153373,
+                "endtime": 92749.9325153373,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 93854.22699386491,
+                "endtime": 93854.22699386491,
+                "longnote": false,
+                "parallel": false,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 95878.76687116553,
+                "endtime": 95878.76687116553,
+                "longnote": false,
+                "parallel": true,
+                "lane": 1,
+                "hold": false
+            },
+            {
+                "starttime": 1921.7116564417174,
+                "endtime": 1921.7116564417174,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 4314.349693251534,
+                "endtime": 4314.349693251534,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 5510.668711656442,
+                "endtime": 5510.668711656442,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 6062.815950920245,
+                "endtime": 6062.815950920245,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 7167.110429447853,
+                "endtime": 7167.110429447853,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 7351.1595092024545,
+                "endtime": 7351.1595092024545,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 8455.453987730061,
+                "endtime": 8455.453987730061,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 9927.846625766872,
+                "endtime": 9927.846625766872,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 12136.435582822087,
+                "endtime": 12136.435582822087,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 14529.073619631905,
+                "endtime": 14529.073619631905,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 15081.220858895707,
+                "endtime": 15081.220858895707,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 16185.515337423316,
+                "endtime": 16185.515337423316,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 19682.44785276074,
+                "endtime": 19682.44785276074,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 20418.644171779142,
+                "endtime": 20418.644171779142,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 20602.693251533743,
+                "endtime": 20602.693251533743,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 21706.98773006135,
+                "endtime": 21706.98773006135,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 21891.036809815952,
+                "endtime": 21891.036809815952,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 22811.28220858896,
+                "endtime": 24099.62576687117,
+                "longnote": true,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 25019.871165644174,
+                "endtime": 25019.871165644174,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 25203.92024539878,
+                "endtime": 25203.92024539878,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 26676.31288343559,
+                "endtime": 26676.31288343559,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 27780.607361963193,
+                "endtime": 27780.607361963193,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 27964.656441717794,
+                "endtime": 27964.656441717794,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 28700.8527607362,
+                "endtime": 28700.8527607362,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 30173.24539877301,
+                "endtime": 30173.24539877301,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 30357.294478527612,
+                "endtime": 30357.294478527612,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 30817.417177914114,
+                "endtime": 30817.417177914114,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 32749.93251533743,
+                "endtime": 32749.93251533743,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 34222.32515337424,
+                "endtime": 34222.32515337424,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 35694.71779141104,
+                "endtime": 35694.71779141104,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 37167.11042944785,
+                "endtime": 37167.11042944785,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 40111.89570552146,
+                "endtime": 40111.89570552146,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 41216.19018404907,
+                "endtime": 41216.19018404907,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 43240.73006134968,
+                "endtime": 43240.73006134968,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 45633.36809815949,
+                "endtime": 45633.36809815949,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 47841.9570552147,
+                "endtime": 47841.9570552147,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 48578.1533742331,
+                "endtime": 48578.1533742331,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 50234.59509202451,
+                "endtime": 50786.74233128831,
+                "longnote": true,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 51891.036809815916,
+                "endtime": 51891.036809815916,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 52995.33128834352,
+                "endtime": 53363.42944785272,
+                "longnote": true,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 55572.01840490793,
+                "endtime": 55572.01840490793,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 56308.214723926336,
+                "endtime": 56308.214723926336,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 57044.41104294474,
+                "endtime": 57044.41104294474,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 57964.65644171774,
+                "endtime": 57964.65644171774,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 58148.705521472344,
+                "endtime": 58148.705521472344,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 59621.09815950915,
+                "endtime": 59621.09815950915,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 60173.24539877295,
+                "endtime": 60173.24539877295,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 61461.58895705516,
+                "endtime": 61461.58895705516,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 62013.73619631896,
+                "endtime": 62013.73619631896,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 63854.22699386497,
+                "endtime": 63854.22699386497,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 64222.32515337417,
+                "endtime": 64222.32515337417,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 65142.57055214718,
+                "endtime": 65510.668711656384,
+                "longnote": true,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 67627.2331288343,
+                "endtime": 67627.2331288343,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 68639.5030674846,
+                "endtime": 68639.5030674846,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 70295.944785276,
+                "endtime": 70295.944785276,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 71032.14110429441,
+                "endtime": 71216.19018404902,
+                "longnote": true,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 72596.55828220851,
+                "endtime": 72596.55828220851,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 72780.60736196312,
+                "endtime": 72780.60736196312,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 74529.07361963183,
+                "endtime": 74529.07361963183,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 75449.31901840483,
+                "endtime": 75633.36809815944,
+                "longnote": true,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 77657.90797546004,
+                "endtime": 77657.90797546004,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 78210.05521472385,
+                "endtime": 78210.05521472385,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 79314.34969325145,
+                "endtime": 79314.34969325145,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 79498.39877300605,
+                "endtime": 79498.39877300605,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 80234.59509202445,
+                "endtime": 80234.59509202445,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 82811.28220858886,
+                "endtime": 83547.47852760727,
+                "longnote": true,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 84835.82208588948,
+                "endtime": 84835.82208588948,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 85756.06748466248,
+                "endtime": 85756.06748466248,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 86492.26380368088,
+                "endtime": 86492.26380368088,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 88700.85276073609,
+                "endtime": 88700.85276073609,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 90173.2453987729,
+                "endtime": 90173.2453987729,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 91645.6380368097,
+                "endtime": 91645.6380368097,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 92933.98159509191,
+                "endtime": 92933.98159509191,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 93670.17791411032,
+                "endtime": 93670.17791411032,
+                "longnote": false,
+                "parallel": false,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 96062.81595092012,
+                "endtime": 96062.81595092012,
+                "longnote": false,
+                "parallel": true,
+                "lane": 2,
+                "hold": false
+            },
+            {
+                "starttime": 1737.6625766871166,
+                "endtime": 1737.6625766871166,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 2105.760736196319,
+                "endtime": 2105.760736196319,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 4774.472392638036,
+                "endtime": 4774.472392638036,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 5142.570552147239,
+                "endtime": 5142.570552147239,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 6614.963190184049,
+                "endtime": 6799.01226993865,
+                "longnote": true,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 7719.257668711656,
+                "endtime": 7719.257668711656,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 8731.527607361964,
+                "endtime": 8731.527607361964,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 10295.944785276075,
+                "endtime": 10295.944785276075,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 10479.993865030676,
+                "endtime": 10479.993865030676,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 11032.14110429448,
+                "endtime": 11400.239263803682,
+                "longnote": true,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 13792.877300613498,
+                "endtime": 13792.877300613498,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 14713.122699386506,
+                "endtime": 14713.122699386506,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 16921.71165644172,
+                "endtime": 19130.300613496933,
+                "longnote": true,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 21154.84049079755,
+                "endtime": 21154.84049079755,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 25479.99386503068,
+                "endtime": 25479.99386503068,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 25664.04294478528,
+                "endtime": 25664.04294478528,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 26860.36196319019,
+                "endtime": 26860.36196319019,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 27596.558282208593,
+                "endtime": 27596.558282208593,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 29805.14723926381,
+                "endtime": 29805.14723926381,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 31645.63803680982,
+                "endtime": 31645.63803680982,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 31829.687116564422,
+                "endtime": 31829.687116564422,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 33302.07975460123,
+                "endtime": 33302.07975460123,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 33762.20245398774,
+                "endtime": 33762.20245398774,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 34958.52147239264,
+                "endtime": 34958.52147239264,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 36430.91411042945,
+                "endtime": 36430.91411042945,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 37443.184049079755,
+                "endtime": 37443.184049079755,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 39283.67484662576,
+                "endtime": 39283.67484662576,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 42228.46012269938,
+                "endtime": 42228.46012269938,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 44160.97546012268,
+                "endtime": 44160.97546012268,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 45081.220858895686,
+                "endtime": 45081.220858895686,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 45265.269938650286,
+                "endtime": 45265.269938650286,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 47105.760736196295,
+                "endtime": 47105.760736196295,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 50970.79141104291,
+                "endtime": 50970.79141104291,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 51154.84049079751,
+                "endtime": 51154.84049079751,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 52259.13496932512,
+                "endtime": 52259.13496932512,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 52627.23312883432,
+                "endtime": 52627.23312883432,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 55940.116564417134,
+                "endtime": 55940.116564417134,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 59252.99999999995,
+                "endtime": 59252.99999999995,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 59437.04907975455,
+                "endtime": 59437.04907975455,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 60541.343558282155,
+                "endtime": 60541.343558282155,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 60725.392638036756,
+                "endtime": 60725.392638036756,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 61645.63803680976,
+                "endtime": 61645.63803680976,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 61829.68711656436,
+                "endtime": 61829.68711656436,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 64038.27607361957,
+                "endtime": 64038.27607361957,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 66154.84049079749,
+                "endtime": 66154.84049079749,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 69007.60122699381,
+                "endtime": 69743.79754601221,
+                "longnote": true,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 70848.09202453982,
+                "endtime": 70848.09202453982,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 71400.23926380361,
+                "endtime": 71400.23926380361,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 71952.38650306742,
+                "endtime": 71952.38650306742,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 72136.43558282201,
+                "endtime": 72136.43558282201,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 73516.80368098152,
+                "endtime": 73516.80368098152,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 74345.02453987722,
+                "endtime": 74345.02453987722,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 77841.95705521465,
+                "endtime": 77841.95705521465,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 78026.00613496924,
+                "endtime": 78026.00613496924,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 78946.25153374225,
+                "endtime": 78946.25153374225,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 82351.15950920236,
+                "endtime": 82351.15950920236,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 83823.55214723917,
+                "endtime": 83823.55214723917,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 85203.92024539868,
+                "endtime": 85203.92024539868,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 85387.96932515327,
+                "endtime": 85387.96932515327,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 86676.31288343549,
+                "endtime": 86676.31288343549,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 86860.36196319008,
+                "endtime": 86860.36196319008,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 87596.55828220848,
+                "endtime": 87596.55828220848,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 87780.60736196309,
+                "endtime": 87780.60736196309,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 89621.0981595091,
+                "endtime": 89621.0981595091,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 90541.3435582821,
+                "endtime": 90909.4417177913,
+                "longnote": true,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 93118.03067484651,
+                "endtime": 93118.03067484651,
+                "longnote": false,
+                "parallel": false,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 93486.12883435571,
+                "endtime": 93486.12883435571,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 95142.57055214712,
+                "endtime": 95142.57055214712,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 96246.86503067473,
+                "endtime": 96246.86503067473,
+                "longnote": false,
+                "parallel": true,
+                "lane": 3,
+                "hold": false
+            },
+            {
+                "starttime": 4590.423312883435,
+                "endtime": 4590.423312883435,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 7535.208588957055,
+                "endtime": 7535.208588957055,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 11952.386503067486,
+                "endtime": 11952.386503067486,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 38087.355828220854,
+                "endtime": 38087.355828220854,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 38455.453987730056,
+                "endtime": 38455.453987730056,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 39559.74846625766,
+                "endtime": 39559.74846625766,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 43056.68098159508,
+                "endtime": 43056.68098159508,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 45449.31901840489,
+                "endtime": 45449.31901840489,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 48946.2515337423,
+                "endtime": 48946.2515337423,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 51338.88957055211,
+                "endtime": 51338.88957055211,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 52075.08588957052,
+                "endtime": 52075.08588957052,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 55756.06748466253,
+                "endtime": 55756.06748466253,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 72320.48466257662,
+                "endtime": 72320.48466257662,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 81338.88957055206,
+                "endtime": 81338.88957055206,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 81522.93865030666,
+                "endtime": 81522.93865030666,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 84099.62576687108,
+                "endtime": 84099.62576687108,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 87044.41104294469,
+                "endtime": 87044.41104294469,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 91461.58895705511,
+                "endtime": 91461.58895705511,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 95510.66871165633,
+                "endtime": 95510.66871165633,
+                "longnote": false,
+                "parallel": false,
+                "lane": 4,
+                "hold": false
+            },
+            {
+                "starttime": 1829.687116564417,
+                "endtime": 1829.687116564417,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 2197.7852760736196,
+                "endtime": 2197.7852760736196,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 3670.177914110429,
+                "endtime": 3854.2269938650297,
+                "longnote": true,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 4774.472392638036,
+                "endtime": 4774.472392638036,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 7719.257668711656,
+                "endtime": 7719.257668711656,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 8639.503067484664,
+                "endtime": 8639.503067484664,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 9559.74846625767,
+                "endtime": 9559.74846625767,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 9743.79754601227,
+                "endtime": 9743.79754601227,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 11032.14110429448,
+                "endtime": 11400.239263803682,
+                "longnote": true,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 13608.828220858897,
+                "endtime": 13608.828220858897,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 13976.9263803681,
+                "endtime": 16185.515337423316,
+                "longnote": true,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 17657.907975460123,
+                "endtime": 17657.907975460123,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 24099.62576687117,
+                "endtime": 24099.62576687117,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 25387.96932515338,
+                "endtime": 25387.96932515338,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 25572.01840490798,
+                "endtime": 25572.01840490798,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 26860.36196319019,
+                "endtime": 26860.36196319019,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 29805.14723926381,
+                "endtime": 29805.14723926381,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 30541.343558282213,
+                "endtime": 30541.343558282213,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 32013.736196319023,
+                "endtime": 32013.736196319023,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 33486.12883435583,
+                "endtime": 33486.12883435583,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 34590.42331288344,
+                "endtime": 34590.42331288344,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 34774.47239263804,
+                "endtime": 34774.47239263804,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 36246.865030674846,
+                "endtime": 36246.865030674846,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 36706.98773006135,
+                "endtime": 36706.98773006135,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 37351.15950920245,
+                "endtime": 37351.15950920245,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 37535.20858895705,
+                "endtime": 37535.20858895705,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 39191.65030674846,
+                "endtime": 39191.65030674846,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 39375.69938650306,
+                "endtime": 39375.69938650306,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 41216.19018404907,
+                "endtime": 41216.19018404907,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 45173.24539877299,
+                "endtime": 45173.24539877299,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 48118.0306748466,
+                "endtime": 48118.0306748466,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 50050.54601226991,
+                "endtime": 50050.54601226991,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 51062.815950920216,
+                "endtime": 51062.815950920216,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 52259.13496932512,
+                "endtime": 52627.23312883432,
+                "longnote": true,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 55940.116564417134,
+                "endtime": 55940.116564417134,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 59252.99999999995,
+                "endtime": 59252.99999999995,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 59437.04907975455,
+                "endtime": 59437.04907975455,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 60541.343558282155,
+                "endtime": 60541.343558282155,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 60725.392638036756,
+                "endtime": 60725.392638036756,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 61737.662576687064,
+                "endtime": 61737.662576687064,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 62565.883435582764,
+                "endtime": 62565.883435582764,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 66062.8159509202,
+                "endtime": 66062.8159509202,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 66246.86503067479,
+                "endtime": 66246.86503067479,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 67167.1104294478,
+                "endtime": 67167.1104294478,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 69743.79754601221,
+                "endtime": 70295.944785276,
+                "longnote": true,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 71400.23926380361,
+                "endtime": 71400.23926380361,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 72044.41104294472,
+                "endtime": 72044.41104294472,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 73424.77914110423,
+                "endtime": 73424.77914110423,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 73608.82822085882,
+                "endtime": 73608.82822085882,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 75817.41717791403,
+                "endtime": 75817.41717791403,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 77933.98159509194,
+                "endtime": 77933.98159509194,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 82259.13496932507,
+                "endtime": 82259.13496932507,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 82443.18404907966,
+                "endtime": 82443.18404907966,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 83731.52760736187,
+                "endtime": 83731.52760736187,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 83915.57668711647,
+                "endtime": 83915.57668711647,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 85295.94478527598,
+                "endtime": 85295.94478527598,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 86768.33742331278,
+                "endtime": 86768.33742331278,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 88332.75460122689,
+                "endtime": 88332.75460122689,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 88516.8036809815,
+                "endtime": 88516.8036809815,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 89713.1226993864,
+                "endtime": 89713.1226993864,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 90541.3435582821,
+                "endtime": 90909.4417177913,
+                "longnote": true,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 93302.07975460112,
+                "endtime": 93302.07975460112,
+                "longnote": false,
+                "parallel": false,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 94038.27607361952,
+                "endtime": 94038.27607361952,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 94590.42331288331,
+                "endtime": 94590.42331288331,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 96246.86503067473,
+                "endtime": 96246.86503067473,
+                "longnote": false,
+                "parallel": true,
+                "lane": 5,
+                "hold": false
+            },
+            {
+                "starttime": 2013.7361963190183,
+                "endtime": 2013.7361963190183,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 2565.883435582822,
+                "endtime": 2565.883435582822,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 3118.0306748466255,
+                "endtime": 3118.0306748466255,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 4222.325153374232,
+                "endtime": 4222.325153374232,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 4406.374233128834,
+                "endtime": 4406.374233128834,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 7259.134969325154,
+                "endtime": 7259.134969325154,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 9191.650306748466,
+                "endtime": 9191.650306748466,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 10664.042944785277,
+                "endtime": 10664.042944785277,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 12136.435582822087,
+                "endtime": 12136.435582822087,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 13424.779141104296,
+                "endtime": 13424.779141104296,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 16737.66257668712,
+                "endtime": 16737.66257668712,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 17473.85889570552,
+                "endtime": 17473.85889570552,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 18026.006134969328,
+                "endtime": 18026.006134969328,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 19130.300613496933,
+                "endtime": 19130.300613496933,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 19866.49693251534,
+                "endtime": 21154.84049079755,
+                "longnote": true,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 22075.085889570553,
+                "endtime": 22075.085889570553,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 22259.134969325158,
+                "endtime": 22259.134969325158,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 23363.429447852763,
+                "endtime": 23363.429447852763,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 23547.478527607364,
+                "endtime": 23547.478527607364,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 24651.773006134972,
+                "endtime": 24651.773006134972,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 24835.822085889573,
+                "endtime": 24835.822085889573,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 25756.06748466258,
+                "endtime": 25756.06748466258,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 27228.46012269939,
+                "endtime": 27228.46012269939,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 27412.50920245399,
+                "endtime": 27412.50920245399,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 27872.631901840494,
+                "endtime": 27872.631901840494,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 29621.09815950921,
+                "endtime": 29621.09815950921,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 30725.392638036814,
+                "endtime": 30725.392638036814,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 30909.441717791415,
+                "endtime": 30909.441717791415,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 32749.93251533743,
+                "endtime": 32749.93251533743,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 34222.32515337424,
+                "endtime": 34222.32515337424,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 35694.71779141104,
+                "endtime": 35694.71779141104,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 37167.11042944785,
+                "endtime": 37167.11042944785,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 39743.79754601226,
+                "endtime": 39743.79754601226,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 41952.38650306747,
+                "endtime": 41952.38650306747,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 42688.582822085875,
+                "endtime": 42688.582822085875,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 44345.02453987728,
+                "endtime": 44897.171779141085,
+                "longnote": true,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 46001.46625766869,
+                "endtime": 46001.46625766869,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 47105.760736196295,
+                "endtime": 47105.760736196295,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 49130.300613496904,
+                "endtime": 49130.300613496904,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 50786.74233128831,
+                "endtime": 50786.74233128831,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 51891.036809815916,
+                "endtime": 51891.036809815916,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 52995.33128834352,
+                "endtime": 52995.33128834352,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 53363.42944785272,
+                "endtime": 53363.42944785272,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 55572.01840490793,
+                "endtime": 55572.01840490793,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 56492.26380368094,
+                "endtime": 56492.26380368094,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 56676.31288343554,
+                "endtime": 56676.31288343554,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 57780.60736196314,
+                "endtime": 57780.60736196314,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 58516.803680981546,
+                "endtime": 58516.803680981546,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 59621.09815950915,
+                "endtime": 59621.09815950915,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 60173.24539877295,
+                "endtime": 60173.24539877295,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 62749.932515337365,
+                "endtime": 62749.932515337365,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 63670.17791411037,
+                "endtime": 63854.22699386497,
+                "longnote": true,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 65878.76687116559,
+                "endtime": 65878.76687116559,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 66430.9141104294,
+                "endtime": 66430.9141104294,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 67535.208588957,
+                "endtime": 67535.208588957,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 67719.2576687116,
+                "endtime": 67719.2576687116,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 69375.69938650301,
+                "endtime": 69375.69938650301,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 71032.14110429441,
+                "endtime": 71216.19018404902,
+                "longnote": true,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 72504.53374233122,
+                "endtime": 72504.53374233122,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 72688.58282208582,
+                "endtime": 72688.58282208582,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 73240.73006134962,
+                "endtime": 73240.73006134962,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 73792.87730061343,
+                "endtime": 73792.87730061343,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 75633.36809815944,
+                "endtime": 75633.36809815944,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 76001.46625766864,
+                "endtime": 76001.46625766864,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 76921.71165644164,
+                "endtime": 77289.80981595084,
+                "longnote": true,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 79406.37423312875,
+                "endtime": 79406.37423312875,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 80234.59509202445,
+                "endtime": 80234.59509202445,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 81891.03680981587,
+                "endtime": 81891.03680981587,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 82811.28220858886,
+                "endtime": 82811.28220858886,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 83547.47852760727,
+                "endtime": 83547.47852760727,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 85756.06748466248,
+                "endtime": 86492.26380368088,
+                "longnote": true,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 87964.65644171769,
+                "endtime": 87964.65644171769,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 89437.04907975449,
+                "endtime": 89437.04907975449,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 91645.6380368097,
+                "endtime": 91645.6380368097,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 94774.47239263792,
+                "endtime": 94774.47239263792,
+                "longnote": false,
+                "parallel": false,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 96062.81595092012,
+                "endtime": 96062.81595092012,
+                "longnote": false,
+                "parallel": true,
+                "lane": 6,
+                "hold": false
+            },
+            {
+                "starttime": 2381.834355828221,
+                "endtime": 2381.834355828221,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 3302.079754601227,
+                "endtime": 3302.079754601227,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 4038.2760736196315,
+                "endtime": 4038.2760736196315,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 6246.865030674846,
+                "endtime": 6983.061349693252,
+                "longnote": true,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 8455.453987730061,
+                "endtime": 8455.453987730061,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 9927.846625766872,
+                "endtime": 9927.846625766872,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 11584.288343558284,
+                "endtime": 11584.288343558284,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 13240.730061349695,
+                "endtime": 13240.730061349695,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 17289.80981595092,
+                "endtime": 17289.80981595092,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 18394.10429447853,
+                "endtime": 18394.10429447853,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 23731.527607361968,
+                "endtime": 23731.527607361968,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 23915.57668711657,
+                "endtime": 23915.57668711657,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 25940.11656441718,
+                "endtime": 25940.11656441718,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 29437.049079754604,
+                "endtime": 29437.049079754604,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 31093.49079754602,
+                "endtime": 31093.49079754602,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 33118.03067484663,
+                "endtime": 33118.03067484663,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 33670.177914110434,
+                "endtime": 33670.177914110434,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 33854.226993865035,
+                "endtime": 33854.226993865035,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 36430.91411042945,
+                "endtime": 36430.91411042945,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 38271.404907975455,
+                "endtime": 38271.404907975455,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 39007.60122699386,
+                "endtime": 39007.60122699386,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 40295.944785276064,
+                "endtime": 41032.14110429447,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 42504.533742331274,
+                "endtime": 42504.533742331274,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 47289.809815950895,
+                "endtime": 47841.9570552147,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 49866.49693251531,
+                "endtime": 49866.49693251531,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 51522.938650306714,
+                "endtime": 51522.938650306714,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 53731.527607361924,
+                "endtime": 54099.625766871126,
+                "longnote": true,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 55019.87116564413,
+                "endtime": 55019.87116564413,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 55203.92024539873,
+                "endtime": 55203.92024539873,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 56860.36196319014,
+                "endtime": 56860.36196319014,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 58700.85276073615,
+                "endtime": 58700.85276073615,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 59805.14723926375,
+                "endtime": 59805.14723926375,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 62933.981595091966,
+                "endtime": 62933.981595091966,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 63486.12883435577,
+                "endtime": 63486.12883435577,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 65694.71779141099,
+                "endtime": 65694.71779141099,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 66614.96319018399,
+                "endtime": 66799.0122699386,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 67351.15950920239,
+                "endtime": 67351.15950920239,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 67903.3067484662,
+                "endtime": 67903.3067484662,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 68271.4049079754,
+                "endtime": 69007.60122699381,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 69559.7484662576,
+                "endtime": 69559.7484662576,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 70572.01840490791,
+                "endtime": 70572.01840490791,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 71768.33742331281,
+                "endtime": 71768.33742331281,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 73056.68098159503,
+                "endtime": 73056.68098159503,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 73976.92638036802,
+                "endtime": 74345.02453987722,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 76185.51533742323,
+                "endtime": 76185.51533742323,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 76737.66257668704,
+                "endtime": 76737.66257668704,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 78762.20245398764,
+                "endtime": 79130.30061349685,
+                "longnote": true,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 80050.54601226986,
+                "endtime": 80050.54601226986,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 81062.81595092015,
+                "endtime": 81062.81595092015,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 82075.08588957046,
+                "endtime": 82075.08588957046,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 82627.23312883427,
+                "endtime": 82627.23312883427,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 84283.67484662567,
+                "endtime": 84283.67484662567,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 87228.46012269928,
+                "endtime": 87228.46012269928,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 88700.85276073609,
+                "endtime": 88700.85276073609,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 90173.2453987729,
+                "endtime": 90173.2453987729,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 91093.4907975459,
+                "endtime": 91093.4907975459,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 94958.52147239252,
+                "endtime": 94958.52147239252,
+                "longnote": false,
+                "parallel": false,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 95878.76687116553,
+                "endtime": 95878.76687116553,
+                "longnote": false,
+                "parallel": true,
+                "lane": 7,
+                "hold": false
+            },
+            {
+                "starttime": 1461.5889570552145,
+                "endtime": 1461.5889570552145,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 2749.932515337423,
+                "endtime": 2749.932515337423,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 2933.9815950920247,
+                "endtime": 2933.9815950920247,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 5786.742331288344,
+                "endtime": 5786.742331288344,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 8823.552147239265,
+                "endtime": 8823.552147239265,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 9007.601226993866,
+                "endtime": 9007.601226993866,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 10203.920245398775,
+                "endtime": 10203.920245398775,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 12504.53374233129,
+                "endtime": 13056.680981595095,
+                "longnote": true,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 16369.564417177917,
+                "endtime": 16369.564417177917,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 17105.76073619632,
+                "endtime": 17105.76073619632,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 18762.20245398773,
+                "endtime": 18762.20245398773,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 19498.398773006138,
+                "endtime": 19498.398773006138,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 21338.88957055215,
+                "endtime": 21338.88957055215,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 21522.93865030675,
+                "endtime": 21522.93865030675,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 22995.33128834356,
+                "endtime": 22995.33128834356,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 23179.380368098162,
+                "endtime": 23179.380368098162,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 26124.165644171782,
+                "endtime": 26124.165644171782,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 27596.558282208593,
+                "endtime": 27596.558282208593,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 28332.754601227,
+                "endtime": 28332.754601227,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 29068.950920245403,
+                "endtime": 29068.950920245403,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 31277.53987730062,
+                "endtime": 31277.53987730062,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 32381.83435582823,
+                "endtime": 32381.83435582823,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 32565.88343558283,
+                "endtime": 32565.88343558283,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 34038.276073619636,
+                "endtime": 34038.276073619636,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 34958.52147239264,
+                "endtime": 34958.52147239264,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 40111.89570552146,
+                "endtime": 40111.89570552146,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 42136.43558282207,
+                "endtime": 42136.43558282207,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 42320.48466257667,
+                "endtime": 42320.48466257667,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 43240.73006134968,
+                "endtime": 44160.97546012268,
+                "longnote": true,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 45633.36809815949,
+                "endtime": 45633.36809815949,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 46921.711656441694,
+                "endtime": 46921.711656441694,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 48578.1533742331,
+                "endtime": 48578.1533742331,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 54467.72392638033,
+                "endtime": 54467.72392638033,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 54835.82208588953,
+                "endtime": 54835.82208588953,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 56308.214723926336,
+                "endtime": 56308.214723926336,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 57044.41104294474,
+                "endtime": 57044.41104294474,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 57412.50920245394,
+                "endtime": 57412.50920245394,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 58056.68098159505,
+                "endtime": 58056.68098159505,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 58884.90184049075,
+                "endtime": 58884.90184049075,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 59068.95092024535,
+                "endtime": 59068.95092024535,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 59989.19631901835,
+                "endtime": 59989.19631901835,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 63118.03067484657,
+                "endtime": 63118.03067484657,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 63302.07975460117,
+                "endtime": 63302.07975460117,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 64682.44785276068,
+                "endtime": 64682.44785276068,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 65510.668711656384,
+                "endtime": 65510.668711656384,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 68087.3558282208,
+                "endtime": 68087.3558282208,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 69191.6503067484,
+                "endtime": 69191.6503067484,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 71584.28834355822,
+                "endtime": 71584.28834355822,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 72872.63190184042,
+                "endtime": 72872.63190184042,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 74989.19631901833,
+                "endtime": 74989.19631901833,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 76369.56441717784,
+                "endtime": 76369.56441717784,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 76553.61349693243,
+                "endtime": 76553.61349693243,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 78578.15337423305,
+                "endtime": 78578.15337423305,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 79866.49693251525,
+                "endtime": 79866.49693251525,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 80602.69325153365,
+                "endtime": 80602.69325153365,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 80786.74233128826,
+                "endtime": 80786.74233128826,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 81706.98773006126,
+                "endtime": 81706.98773006126,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 83179.38036809806,
+                "endtime": 83363.42944785267,
+                "longnote": true,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 88148.7055214723,
+                "endtime": 88148.7055214723,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 89068.95092024529,
+                "endtime": 89068.95092024529,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 89252.9999999999,
+                "endtime": 89252.9999999999,
+                "longnote": false,
+                "parallel": false,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 92013.7361963189,
+                "endtime": 93118.03067484651,
+                "longnote": true,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 93486.12883435571,
+                "endtime": 93854.22699386491,
+                "longnote": true,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 95142.57055214712,
+                "endtime": 95142.57055214712,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            },
+            {
+                "starttime": 95694.71779141092,
+                "endtime": 95694.71779141092,
+                "longnote": false,
+                "parallel": true,
+                "lane": 8,
+                "hold": false
+            }
+        
+    ]
+}
